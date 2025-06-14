@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean! <br/><a href="">Cyber Security Enthusiast</a>
+<h1>Hi, I'm Sean! <br/><a href="">IT & Cyber Security Enthusiast</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
