@@ -8,7 +8,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Creating an Active Directory Domain Server](https://github.com/seanmarqueling/Active-Directory)
-- [Azure Network and RDP](https://github.com/seanmarqueling/Azure-Networking-and-RDP)
+- [Azure Network - RDP - Wireshark](https://github.com/seanmarqueling/Azure-Networking-and-RDP)
 - [Setup a VM with Virtualbox](https://github.com/seanmarqueling/Windows-os-Virtual-Box)
 
 <h2> 🤳 Connect with me:</h2>
