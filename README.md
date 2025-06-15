@@ -7,9 +7,11 @@
  
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Creating an Active Directory Domain Server](https://github.com/seanmarqueling/Active-Directory)
-- [Azure Network - RDP - Wireshark](https://github.com/seanmarqueling/Azure-Networking-and-RDP)
-- [Setup a VM with Virtualbox](https://github.com/seanmarqueling/Windows-os-Virtual-Box)
+- [Creating an Active Directory Domain Server](https://github.com/seanmarqueling/Active-Directory/blob/main/README.md)
+- [Azure Network - RDP - Wireshark](https://github.com/seanmarqueling/Azure-Networking-and-RDP/blob/main/README.md)
+- [Setup a VM with Virtualbox](https://github.com/seanmarqueling/Windows-os-Virtual-Box/blob/main/README.md)
+- [Setup osTicketing System](https://github.com/seanmarqueling/OS-Ticket-System/blob/main/README.md)
+- [Ticket Lifecycle in osTicket](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
