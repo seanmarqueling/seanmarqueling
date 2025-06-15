@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure-Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/seanmarqueling/Azure-SOC-Honeynet)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/seanmarqueling/Azure-SOC-Honeynet/blob/main/README.md)
  
 <h2>👨‍💻 IT Projects:</h2>
 
